@@ -5,9 +5,12 @@ import { Container, Row, Col, Button } from "reactstrap";
 const PresentationSection = function () {
   return (
     <>
-      <Container>
+      <Container className="py-4">
         <Row>
-          <Col md>
+          <Col
+            md
+            className="d-flex flex-column justify-content-center align-items-start"
+          >
             <p className={styles.subTitle}>ACESSO ILIMITADO</p>
             <p className={styles.title}>
               Tenha acesso aos melhores <br /> tutoriais de Programação.
@@ -16,7 +19,7 @@ const PresentationSection = function () {
               Estude de onde estiver, a qualquer momento, e continue <br />{" "}
               evoluindo como programador.
             </p>
-            <Link href="/register">
+            <Link href="/register" style={{ textDecoration: "none" }}>
               <Button outline className={styles.btnCta}>
                 ACESSE AGORA{" "}
                 <img
@@ -32,6 +35,15 @@ const PresentationSection = function () {
               src="/homeNoAuth/imgPresentation.png"
               alt="imgPresentation"
               className={styles.imgPresentation}
+            />
+          </Col>
+        </Row>
+        <Row>
+          <Col className="d-flex justify-content-center pt-5">
+            <img
+              src="/homeNoAuth/iconArrowDown.svg"
+              alt="arrowDown"
+              className={styles.arrowDown}
             />
           </Col>
         </Row>
