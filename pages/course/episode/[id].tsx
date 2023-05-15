@@ -13,6 +13,7 @@ const EpisodePlayer = function () {
   const router = useRouter();
   const [course, setCourse] = useState<CourseType>();
   const [isReady, setIsReady] = useState(false);
+  const [loading, setLoading] = useState(true);
   const episodeOrder = parseFloat(router.query.id?.toString() || "");
   const episodeId = parseFloat(router.query.episodeid?.toString() || "");
   const courseId = router.query.courseid?.toString() || "";
@@ -80,6 +81,18 @@ const EpisodePlayer = function () {
   useEffect(() => {
     getCourse();
   }, [courseId]);
+
+  useEffect(() => {
+    if (!sessionStorage.getItem("onebitflix-token")) {
+      router.push("/login");
+    } else {
+      setLoading(false);
+    }
+  }, []);
+
+  if (loading) {
+    return <PageSpinner />;
+  }
 
   if (course?.episodes === undefined) return <PageSpinner />;
 
