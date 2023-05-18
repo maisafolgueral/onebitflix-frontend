@@ -13,29 +13,30 @@ Tecnologias utilizadas:
 Obs.: Todas as imagens, videos e textos foram usados apenas para teste.
 
 Página Inicial:
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-home-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-home-2.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-home-2.png?raw=true"><br/>
 
 Página de Cadastro:
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-register-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-register-2.png?raw=true"><br/>
 
 Página de Login:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-login.png?raw=true"><br/>
 
 Página Inicial após Cadastro/Login:
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-2.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-3.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-4.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-5.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-homelogin-6.png?raw=true"><br/>
 
 Informações Curso:
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-courses-0.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-courses-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-courses-2.png?raw=true"><br/>
 
 Episódios:
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-episodes-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-frontend/blob/main/public/img/frontend-episodes-2.png?raw=true"><br/>
